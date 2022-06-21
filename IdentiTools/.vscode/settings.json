@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Andree\\Downloads\\javax.servlet.jar\\javax.servlet.jar",
+        "c:\\Users\\Andree\\Downloads\\jar_files\\javaee-web-api-8.0.jar"
+    ]
+}
